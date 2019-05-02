@@ -2,7 +2,7 @@
   "_args": [
     [
       "@fortawesome/fontawesome-free@5.7.2",
-      "/Users/tomng/Desktop/jeff-solution"
+      "/Users/tomng/Desktop/h-codes--solution"
     ]
   ],
   "_from": "@fortawesome/fontawesome-free@5.7.2",
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-5.7.2.tgz",
   "_spec": "5.7.2",
-  "_where": "/Users/tomng/Desktop/jeff-solution",
+  "_where": "/Users/tomng/Desktop/h-codes--solution",
   "author": {
     "name": "Dave Gandy",
     "email": "dave@fontawesome.com",
